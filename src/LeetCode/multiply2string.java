@@ -42,6 +42,7 @@ public class multiply2string {
 			}
 		}
 		
+		
 		int carry = 0;
 		for(int i = 0;i<sum.size();i++) {
 			int s = sum.get(i).charValue();
